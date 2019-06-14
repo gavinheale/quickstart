@@ -5,3 +5,6 @@ textarea = ""
 [fieldgroup]
 
 +++
+This is the first page
+
+![](/uploads/kugadi_logo.jpg)
