@@ -20,3 +20,5 @@ fields:
   type: field_group
   config: {}
   label: FieldGroup
+pages:
+- content/page1.md
