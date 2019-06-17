@@ -1,0 +1,33 @@
+{{ define "menu-item" }}
+  {{ $page := .page }}
+  {{ with .entry }}
+    {{ if .HasChildren }}
+      <li class="{{ if $page.HasMenuCurrent "main" . }}active{{ end }}">
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        <ul>
+          {{ range .Children }}
+            {{ template "menu-item" (dict "entry" . "page" $page) }}
+          {{ end }}
+        </ul>
+      </li>
+    {{ else }}
+      <li class="{{ if $page.IsMenuCurrent "main" . }}active{{ end }}">
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<div id="main-menu" style="width: 98%">
+  <a href="{{ .Site.BaseURL }}" style="float: left; display: inline; margin-left: 10px; padding-bottom: 20px; padding-top: 10px;">
+    <img src="/images/logo-120x100.png" alt="Kugadi Logo">
+  </a>
+  <div id="menu">
+    <ul id="nav">
+      {{ $page := . }}
+      {{ range .Site.Menus.main }}
+        {{ template "menu-item" (dict "entry" . "page" $page) }}
+      {{ end }}
+    </ul>
+  </div>
+</div>

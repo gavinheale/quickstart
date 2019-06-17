@@ -1,4 +1,15 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-theme = "ananke"
+theme = "kugadi-simple"
 title = "My New Hugo Site"
+
+[permalinks]
+  blog = "/blog/:year/:month/:day/:slug"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "BLOG"
+    url = "/blog/"
+    weight = 1
