@@ -54,7 +54,7 @@ draft: false
 </h2>
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; height: 0; text-align: center">
-  <iframe title="Kugadi Demo" src="https://www.youtube.com/embed/b9OcUFKRNTc"
+  <iframe title="Kugadi Demo" data-src="https://www.youtube.com/embed/b9OcUFKRNTc" src=""
     style = "position: absolute; top:5%; left: 5%; width: 90%; height: 90%;"
     width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
@@ -105,6 +105,17 @@ draft: false
   <p>Compare us to other guard tour systems and you quickly realize how easy we are to work with and what a great return on investment we can give you in a very short time.</p>
 </div>
 
+<script>
+  function init() {
+    var vidDefer = document.getElementsByTagName('iframe');
+    for (var i=0; i<vidDefer.length; i++) {
+      if(vidDefer[i].getAttribute('data-src')) {
+      vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+      }
+    }
+  }
+window.onload = init;
+</script>
 <script>
   window.intercomSettings = {
     app_id: "c8rx7xsn"
