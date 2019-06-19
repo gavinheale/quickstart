@@ -1,8 +1,157 @@
----
-title: ""
-date: 2019-06-16T14:51:11-04:00
-draft: false
----
+<html>
+<head>
+	<meta name="generator" content="Hugo 0.55.6" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel='preconnect' href='https://www.youtube.com' />
+  <link rel='preconnect' href='https://fonts.gstatic.com' />
+  <link rel='preconnect' href='https://static.doubleclick.net' />
+  <link rel='preconnect' href='https://www.google.com' />
+  <link rel='preconnect' href='https://js.intercomcdn.com' />
+  <link rel='preconnect' href='https://static.intercomassets.com' />
+  <link rel='prefetch' href='https://widget.intercom.io/widget/c8rx7xsn' />
+  <style>
+    body {
+    	font: normal .8em/1.5em Arial, Helvetica, sans-serif;
+    	background: #ffffff;
+    	color: #666;
+    }
+
+    a {
+  text-decoration: none;
+}
+
+#nav {
+    float: right;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+li {
+    color: #666;
+    display: block;
+    float: left;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+  transition-duration: 0.5s;
+}
+
+li a {
+  color: #666;
+}
+
+li:hover,
+li:focus-within {
+    background: blue;
+    cursor: pointer;
+}
+
+li:focus-within a {
+  outline: none;
+}
+
+ul li ul {
+    background: blue;
+    visibility: hidden;
+  opacity: 0;
+  min-width: 5rem;
+    position: absolute;
+  transition: all 0.5s ease;
+  margin-top: 1rem;
+    left: 0;
+  display: none;
+}
+
+ul li:hover > ul,
+ul li:focus-within > ul,
+ul li ul:hover,
+ul li ul:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block
+}
+
+ul li ul li {
+    clear: both;
+  width: 100%;
+}
+
+Resources
+
+
+
+  </style>
+</head>
+<body>
+
+
+
+
+
+<div id="main-menu">
+  <a href="http://example.org/" style="margin-left: 10px; padding-bottom: 20px; padding-top: 10px;">
+    <img src="/images/logo-120x100.png" alt="Kugadi Logo">
+  </a>
+  <div id="nav">
+    <ul>
+      
+      
+        
+  
+  
+    
+      <li>
+        <a href="/blog/">BLOG</a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+      <li>
+        <a href="">FEATURES</a>
+        <ul>
+          
+            
+  
+  
+    
+      <li>
+        <a href="/gaurd-tracking/">Gaurd Tracking</a>
+      </li>
+    
+  
+
+          
+            
+  
+  
+    
+      <li>
+        <a href="/guard-managemment/">Guard Managemment</a>
+      </li>
+    
+  
+
+          
+        </ul>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</div>
+
 <style>
   img {
     max-width: 100%;
@@ -38,29 +187,30 @@ draft: false
       width: 33%;
   }
 
-  .wrapper {
-    max-width: 680px;
-    margin: 60px auto;
-    padding: 0 20px;
+  @media only screen and (max-width: 600px) {
+  .col {
+    display: block;
+    width: 100%;
   }
 
-
-  .video-wrap {
-    background-color: #000;
-    margin-bottom: 30px;
-    position: relative;
-    padding-top: 56.25%;
-    overflow: hidden;
+  .youtube {
+    background-color: #ffffff;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%
     cursor: pointer;
   }
 
-  .video-wrap img {
+  .youtube img {
     width: 100%;
-    top: -16.82%;
+    top: -16.84%;
     left: 0;
     opacity: 0.7;
   }
-  .video-wrap .play-button {
+
+  .youtube .play-button {
     width: 90px;
     height: 60px;
     background-color: #333;
@@ -69,39 +219,38 @@ draft: false
     opacity: 0.8;
     border-radius: 6px;
   }
-  .video-wrap .play-button:before {
+
+  .youtube .play-button:before {
     content: "";
     border-style: solid;
     border-width: 15px 0 15px 26.0px;
     border-color: transparent transparent transparent #fff;
   }
-  .video-wrap img,
-  .video-wrap .play-button {
+
+  .youtube img,
+  .youtube .play-button {
     cursor: pointer;
   }
-  .video-wrap img,
-  .video-wrap iframe,
-  .video-wrap .play-button,
-  .video-wrap .play-button:before {
+
+  .youtube img,
+  .youtube iframe,
+  .youtube .play-button,
+  .youtube .play-button:before {
     position: absolute;
   }
-  .video-wrap .play-button,
-  .video-wrap .play-button:before {
+
+  .youtube .play-button,
+  .youtube .play-button:before {
     top: 50%;
     left: 50%;
     transform: translate3d( -50%, -50%, 0 );
   }
-  .video-wrap iframe {
+
+  .youtube iframe {
     height: 100%;
     width: 100%;
     top: 0;
     left: 0;
-  }
-
-  @media only screen and (max-width: 600px) {
-  .col {
-    display: block;
-    width: 100%;
   }
 
 </style>
@@ -131,11 +280,9 @@ draft: false
   Know where your guards are, streamline communications,<br> run a more efficient company.
 </h2>
 
-<div class="wrapper">
-  <div class="video-wrap">
-    <div class="ytplayer" data-embed="b9OcUFKRNTc" id="player_b9OcUFKRNTc">
-      <div class="play-button"></div>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; height: 0; text-align: center">
+  <div class="youtube" data-embed="b9OcUFKRNTc" id="player_b9OcUFKRNTc">
+    <div class="play-button"></div>
   </div>
 </div>
 
@@ -258,7 +405,7 @@ draft: false
   var player;
   function onYouTubePlayerAPIReady(event) {
 
-    var ytplayer = document.querySelectorAll( ".ytplayer" );
+    var ytplayer = document.querySelectorAll( ".youtube" );
 
     // 3. for each video
     for (var i = 0; i < ytplayer.length; i++) {
@@ -293,7 +440,8 @@ draft: false
         this.innerHTML = "";
 
       });
-  }
+
+    }
 }
 </script>
 
@@ -303,3 +451,7 @@ draft: false
   };
 </script>
 <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/c8rx7xsn';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+
+</body>
+</html>
+
