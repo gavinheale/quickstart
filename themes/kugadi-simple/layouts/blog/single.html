@@ -1,6 +1,15 @@
 {{ partial "header.html" . }}
 {{ partial "main-menu.html" . }}
-<h1>{{ .Title }}</h1>
-<h2>{{ .Date.Format "Sun, Feb 11, 2018" }}</h2>
-{{ .Content }}
+<div style="padding-left: 40px; padding-right: 40px; padding-top: 30px; padding-bottom: 20px;">
+  <h1>{{ .Title }}</h1>
+  published on {{ .Date }}
+  <div>
+    <picture style="display: inline-block; float: left; width: 300px; margin-top: 10px; margin-right: 15px; margin-bottom: 15px;">
+      <source srcset="/images/{{ $.Param "featured_image" }}.webp" type="image/webp">
+      <source srcset="/images/{{ $.Param "featured_image" }}.jpg" type="image/jpeg">
+      <img src="/images/{{ $.Param "featured_image" }}.jpg" alt="{{ .Title }}" loading="lazy">
+    </picture>
+  </div>
+  {{ .Content }}
+</div>
 {{ partial "footer.html" . }}
