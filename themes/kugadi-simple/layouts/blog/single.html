@@ -1,10 +1,27 @@
 {{ partial "header.html" . }}
 {{ partial "main-menu.html" . }}
+<style>
+  .article_picture {
+    display: inline-block;
+    float: left; width: 300px;
+    margin-top: 20px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }
+
+  @media only screen and (max-width: 600px) {
+  .article_picture {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+</style>
 <div style="padding-left: 40px; padding-right: 40px; padding-top: 30px; padding-bottom: 20px;">
   <h1>{{ .Title }}</h1>
-  published on {{ .Date }}
+  published on {{ .Date.Format "Jan 2, 2006" }}
   <div>
-    <picture style="display: inline-block; float: left; width: 300px; margin-top: 10px; margin-right: 15px; margin-bottom: 15px;">
+    <picture class="article_picture">
       <source srcset="/images/{{ $.Param "featured_image" }}.webp" type="image/webp">
       <source srcset="/images/{{ $.Param "featured_image" }}.jpg" type="image/jpeg">
       <img src="/images/{{ $.Param "featured_image" }}.jpg" alt="{{ .Title }}" loading="lazy">
