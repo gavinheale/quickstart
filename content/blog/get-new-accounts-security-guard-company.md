@@ -3,7 +3,7 @@ slug = "Get New Accounts Security Guard Company"
 title =  "How to Get New Accounts for your Security Guard Company"
 date = 2018-05-30T16:05:26-04:00
 tags = []
-featured_image = "activity-report-300x300"
+featured_image = "sales_in_security-300x300"
 description = ""
 +++
 When we speak to owners and managers of contract security companies, many of them complain about the difficulty of getting new business.  A few, however, seem to find it much easier. I going to write about some of the lessons we have learned after dealing with many companies in the industry.

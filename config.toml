@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "kugadi-simple"
 title = "My New Hugo Site"
+enableRobotsTXT = "true"
 
 [permalinks]
   blog = "/blog/:year/:month/:day/:slug"
