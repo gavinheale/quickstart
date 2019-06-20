@@ -1,6 +1,7 @@
 {{ partial "header.html" . }}
 {{ partial "main-menu.html" . }}
+<h1>Welcome to the Kugadi Blog</h1>
 {{ range .Data.Pages }}
-  <h1><a href={{ .Permalink }}>{{ .Title }}</a></h1>
+  <h4><a href={{ .Permalink | relURL }}>{{ .Title }}</a></h4>
 {{ end }}
 {{ partial "footer.html" . }}
