@@ -1,6 +1,8 @@
 {{ partial "header.html" . }}
 {{ partial "main-menu.html" . }}
 <h1>Welcome to the Kugadi Blog</h1>
+<p>Welcome to our place where we write about topics we think are relevant to the physical security industry.  If you like,
+or dislike, what we have to say, please drop us a line as we're always looking to open dicussions.  We hope you enjoy these articles.</p>
 {{ range .Data.Pages }}
   <h4><a href={{ .Permalink | relURL }}>{{ .Title }}</a></h4>
 {{ end }}
