@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 date: 2019-07-12T15:43:35-04:00
 draft: false
+robotsdisallow: true
 ---
 
 ONLINE PRIVACY POLICY AGREEMENT
