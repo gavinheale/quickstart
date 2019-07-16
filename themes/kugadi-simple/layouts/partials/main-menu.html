@@ -25,12 +25,32 @@
   {{ end }}
 {{ end }}
 
-<div id="main-menu" style="margin-left: 25px; margin-bottom: 20px; margin-top=25px; margin-right:25px;">
-  <nav id="menu" style="height: 150px;">
-    <a href="{{ .Site.BaseURL }}" class="logo_link">
-      <img src="/images/logo-120x100.png" alt="Kugadi Logo" class="logo_image">
-    </a>
-    <label for="tm" id="toggle-menu">Navigation <span class="drop-icon">▾</span></label>
+<div id="desktop">
+  <div id="main-menu" style="margin-left: 25px; margin-bottom: 20px; margin-top=25px; margin-right:25px;">
+    <nav id="menu" style="display: table; width:100%;">
+      <div class="col third">
+        <a href="{{ .Site.BaseURL }}" class="logo_link">
+          <img src="/images/logo-120x100.png" alt="Kugadi Logo" class="logo_image">
+        </a>
+      </div>
+      <div class="col">
+
+      </div>
+      <div class="col" style="width: 66%" >
+        <ul class="main-menu" style="float: right;">
+          {{ $page := . }}
+          {{ range .Site.Menus.main }}
+            {{ template "menu-item" (dict "entry" . "page" $page) }}
+          {{ end }}
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+
+<div id="mobile">
+  <nav id="menu">
+    <label for="tm" id="toggle-menu">CLICK FOR MORE PAGES<span class="drop-icon">▾</span></label>
     <input type="checkbox" id="tm">
     <ul class="main-menu" stlye="float: right;">
       {{ $page := . }}
