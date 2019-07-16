@@ -67,8 +67,8 @@ draft: false
 
 </style>
 
-<div style="position: relative; text-align: center; color: white; z-index: -1;">
-  <picture >
+<div style="position: relative; text-align: center; color: white;">
+  <picture style="z-index: -2; pointer-events: none;">
     <source srcset="/images/Kugadi-Banner-600-wide.webp" type="image/webp" sizes="100vw" media="(max-width: 600px)">
     <source srcset="/images/Kugadi-Banner-1024-wide.webp" type="image/webp" sizes="100vw" media="(max-width: 1024px)">
     <source srcset="/images/Kugadi-Banner.webp" type="image/webp" sizes="100vw" media="(min-width: 1025px)">
@@ -77,11 +77,14 @@ draft: false
     <source srcset="/images/Kugadi-Banner.jpg" type="image/jpeg" sizes="100vw" media="(min-width: 1025px)">
     <img src="/images/Kugadi-Banner.jpg" alt="Kugadi Guard Tour System" loading="lazy">
   </picture>
-  <div style="position: absolute; top: 40%; left: 5%;">
+  <div style="position: absolute; top: 10%; left: 5%;">
     <h1>Guard Tour System</h1>
   </div>
-  <div style="position: absolute; top: 80%; left: 5%;">
+  <div style="position: absolute; top: 35%; left: 5%;">
     Empower your guards to do their best work
+  </div>
+  <div style="position: absolute; top: 65%; left: 5%; z-index: 1;">
+      <button type="button" class="green-button" onclick="window.location.href='{{< ref \"request-demo\" >}}';">REQUEST DEMO</button>
   </div>
 </div>
 
