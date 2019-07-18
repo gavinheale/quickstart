@@ -2,9 +2,10 @@
 slug = "Gps Guard Tracking Modern Security Company"
 title =  "GPS Guard Tracking and the Modern Security Company"
 date = 2017-08-07T13:35:45-04:00
-tags = []
+lastmod = 2018-08-07T13:35:45-04:00
+tags = ["gps", "physical security"]
 featured_image = "gps_guard_monitoring-300x169"
-description = ""
+description = "My description"
 +++
 What’s your worst nightmare as the owner of a contract security guard company?  I imagine it might have something to do with your biggest client phoning you up at 3 a.m. to scream at you about a huge security breach and to tell you your guards are nowhere to be seen.  So how do you know if your guards are at their posts and following post order rather than down at the coffee shop getting a quick fix?
 
