@@ -2,7 +2,7 @@
 slug = "What Makes a Great Guard Tour System"
 title =  "What Makes a Great Guard Tour System?"
 date = 2016-06-20T13:47:54-04:00
-tags = []
+tags = ["guard tour system", "security guard technology"]
 featured_image = "guard-tour"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

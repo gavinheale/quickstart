@@ -2,7 +2,7 @@
 slug = "Real World Security Operations"
 title =  "Views from the Field – Real World Security Operations"
 date = 2017-10-26T13:23:37-04:00
-tags = []
+tags = ["security operations"]
 featured_image = "real-security-300x200"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

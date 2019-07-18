@@ -2,7 +2,7 @@
 slug = "Get New Accounts Security Guard Company"
 title =  "How to Get New Accounts for your Security Guard Company"
 date = 2018-05-30T16:05:26-04:00
-tags = []
+tags = ["physical security", "marketing"]
 featured_image = "sales_in_security-300x300"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

@@ -2,7 +2,7 @@
 slug = "Effective Reporting for Physical Security"
 title =  "Effective Reporting for Physical Security"
 date = 2016-03-16T14:01:49-04:00
-tags = []
+tags = ["daily activity report"]
 featured_image = "daily-activity-report"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

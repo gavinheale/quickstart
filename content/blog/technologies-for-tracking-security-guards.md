@@ -2,7 +2,7 @@
 slug = "Technologies for Tracking Security Guards"
 title =  "Technologies for Tracking Security Guards"
 date = 2015-12-15T17:17:01-04:00
-tags = []
+tags = ["gps", "nfc", "rfid", "wifi", "bluetooth"]
 featured_image = "tracking-technology"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

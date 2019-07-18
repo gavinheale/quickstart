@@ -2,7 +2,7 @@
 slug = "Are Your Security Services Effectively Leveraging Technology"
 title =  "Are Your Security Services Effectively Leveraging Technology?"
 date = 2016-01-08T16:59:35-04:00
-tags = []
+tags = ["physical security", "security guard operations", "security guard technology"]
 featured_image = "security-technology"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

@@ -2,7 +2,7 @@
 slug = "Artificial Intelligence Physical Security"
 title =  "How Artificial Intelligence will Affect the Physical Security Industry"
 date = 2017-08-28T13:28:15-04:00
-tags = []
+tags = [ "artificial intelligence", "physical security"]
 featured_image = "ai_for_physical_security-300x200"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

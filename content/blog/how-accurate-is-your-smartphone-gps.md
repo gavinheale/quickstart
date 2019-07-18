@@ -2,7 +2,7 @@
 slug = "How Accurate Is Your Smartphone Gps"
 title =  "How Accurate Is Your Smartphone Gps"
 date = 2015-12-09T17:29:50-04:00
-tags = []
+tags = ["gps", "phone"]
 featured_image = ""
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

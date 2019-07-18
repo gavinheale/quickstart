@@ -2,7 +2,7 @@
 slug = "Workforce Management Benefit Everyone Involved"
 title =  "Workforce Management, a Benefit to Everyone Involved"
 date = 2018-03-01T12:45:04-04:00
-tags = []
+tags = ["workforce management"]
 featured_image = "workforce-management-winner-300x150"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

@@ -2,7 +2,7 @@
 slug = "What to Expect From Mobile Apps in the Security Industry"
 title =  "What to Expect from Mobile Apps in the Security Industry"
 date = 2016-01-22T16:43:34-04:00
-tags = []
+tags = ["security guard technology", "phones"]
 featured_image = "mobile-phone-security"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

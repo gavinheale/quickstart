@@ -2,7 +2,7 @@
 slug = "Choosing the Right Smartphones for Your Security Business"
 title =  "Choosing the Right Smartphones for Your Security Business"
 date = 2016-04-13T13:55:56-04:00
-tags = []
+tags = ["security guard technology", "phones", "nfc", "rfid"]
 featured_image = "smart-phone"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00

@@ -2,7 +2,7 @@
 slug = "Beat Competition Contract Security Guard Companies"
 title =  "How to Beat the Competition for Contract Security Guard Companies"
 date = 2018-04-30T17:19:23-04:00
-tags = []
+tags = ["physical security", "marketing"]
 featured_image = "beat-the-competition-300x189"
 description = ""
 lastmod = 2019-07-16T17:00:04-04:00
