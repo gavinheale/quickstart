@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.kugadi.com"
 languageCode = "en-us"
 theme = "kugadi-simple"
-title = "My New Hugo Site"
+title = "Kugadi"
 enableRobotsTXT = "true"
 
 [permalinks]
@@ -13,7 +13,7 @@ enableRobotsTXT = "true"
     name = "BLOG"
     url = "/blog/"
     weight = 1
-    
+
   [[menu.main]]
     identifier = "features"
     name = "FEATURES"
