@@ -5,6 +5,7 @@ date = 2017-10-26T13:23:37-04:00
 tags = []
 featured_image = "real-security-300x200"
 description = ""
+lastmod = 2019-07-16T17:00:04-04:00
 +++
 Last week, we have the good fortune to talk to Jorge Fernandez, Director of Special Services at Admiral Security Services about some real world security operations where our guard tour system is used.  We got some useful insights from the conversation and  I thought I would share them with you.  
 

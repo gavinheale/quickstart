@@ -5,6 +5,7 @@ date = 2016-01-08T16:59:35-04:00
 tags = []
 featured_image = "security-technology"
 description = ""
+lastmod = 2019-07-16T17:00:04-04:00
 +++
 During our consulting work in the contract security industry, we are often asked about how to make companies more competitive and more efficient. One of the areas we have discovered that  makes a big impact on the efficiency and competitive positioning of companies selling or using security services is the workflow followed by their security guards. We find that the security companies with the most efficient services are using an “automated guard workflow”. In order to determine how to best leverage technology to improve a workflow, we first consider several concepts and principles. In this article, I will go into some of the high level concepts relating to becoming a more effective security services provider by using an automated guard workflow.
 

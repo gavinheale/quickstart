@@ -5,6 +5,7 @@ date = 2015-12-15T17:17:01-04:00
 tags = []
 featured_image = "tracking-technology"
 description = ""
+lastmod = 2019-07-16T17:00:04-04:00
 +++
 Technology is changing our world. But which technologies are right for you, your business and your customers? In this article, I am going to explore the advantages and challenges associated with common technologies used in smartphone based guard tour systems for tracking security officer locations and activity.
 

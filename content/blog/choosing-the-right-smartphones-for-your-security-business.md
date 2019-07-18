@@ -5,6 +5,7 @@ date = 2016-04-13T13:55:56-04:00
 tags = []
 featured_image = "smart-phone"
 description = ""
+lastmod = 2019-07-16T17:00:04-04:00
 +++
 It is becoming clear that more and more security officers are carrying a smartphone as part of their standard equipment. This sparks the debate regarding whether it is best to supply your employees with iPhones or Android phones. While there are certainly no shortage of articles that generically discuss the merits of each, for example hereand here, I thought I would look at some of the more specific needs of the contract security market as it pertains to choosing iPhones or Androids.
 

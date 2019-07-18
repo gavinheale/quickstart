@@ -5,6 +5,7 @@ date = 2018-04-30T17:19:23-04:00
 tags = []
 featured_image = "beat-the-competition-300x189"
 description = ""
+lastmod = 2019-07-16T17:00:04-04:00
 +++
 There are a lot of articles on the web on how to beat your competition, but I thought I would try to look more specifically at the contract security guard industry.  I hope you will find this thought provoking and I would love to get any feedback.
 

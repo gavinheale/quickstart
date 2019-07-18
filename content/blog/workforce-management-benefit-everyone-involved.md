@@ -5,6 +5,7 @@ date = 2018-03-01T12:45:04-04:00
 tags = []
 featured_image = "workforce-management-winner-300x150"
 description = ""
+lastmod = 2019-07-16T17:00:04-04:00
 +++
 As we come into 2018, I got to thinking about just how much has changed over the last few years and how much it could continue to change.  One of the largest drivers I have seen is the continued automation of many jobs that traditionally did not really have any technical component.  I am talking about jobs like security officer, cleaner, maintenance engineer and even home care worker.
 

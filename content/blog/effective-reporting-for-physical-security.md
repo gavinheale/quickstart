@@ -5,10 +5,11 @@ date = 2016-03-16T14:01:49-04:00
 tags = []
 featured_image = "daily-activity-report"
 description = ""
+lastmod = 2019-07-16T17:00:04-04:00
 +++
 For most in the physical security industry, client reporting means simply sending your officer’s daily activity report (DAR) to your customer. While this is a good start, we have observed that reporting in this way, does not give the customer everything they need and want. A more flexible approach to reporting is needed to keep customer satisfaction high. Here are some ideas to help you improve your business.
 
- 
+
 
 ## What Information Customers Want
 Remember that every customer is different. Some require a deep understanding of every tag that a guard has touched on his tour. Others only want to know if a patrol is missed or if an incident has occurred. Security Guard companies need to fine tune their systems so that each customer gets exactly what they want.
