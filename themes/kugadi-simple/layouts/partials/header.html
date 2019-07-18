@@ -216,21 +216,20 @@
   #toggle-menu .drop-icon,
   #menu li label.drop-icon {
     position: absolute;
-    right: 20px;
-    top: 5px;
+    right: 0;
+    top: 0;
   }
 
   #menu label.drop-icon, #toggle-menu span.drop-icon {
-    border-radius: 50%;
-    width: 1em;
-    height: 1em;
+    padding: 1em;
+    font-size: 1em;
     text-align: center;
     background-color: rgba(0, 0, 0, .125);
     text-shadow: 0 0 0 transparent;
     color: rgba(255, 255, 255, .75);
   }
 
-  #menu .drop-icon {
+  /* #menu .drop-icon {
     line-height: 1;
   }
 
@@ -242,7 +241,7 @@
     #menu .sub-menu li {
       width: auto;
     }
-  }
+  } */
 
 @media only screen and (min-width: 600px) {
   #menu .main-menu {
@@ -289,6 +288,13 @@
   #menu .sub-menu .sub-menu {
     top: 0;
     left: 100%;
+  }
+
+  #menu .sub-menu .drop-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 1em;
   }
 
   #menu li:hover > input[type="checkbox"] + .sub-menu {

@@ -13,3 +13,9 @@ enableRobotsTXT = "true"
     name = "BLOG"
     url = "/blog/"
     weight = 1
+    
+  [[menu.main]]
+    identifier = "features"
+    name = "FEATURES"
+    url = "#"
+    weight = 1

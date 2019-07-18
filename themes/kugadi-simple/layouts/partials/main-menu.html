@@ -2,17 +2,18 @@
 
 {{ define "menu-item" }}
   {{ $page := .page }}
+  {{ $environment := .environment }}
   {{ with .entry }}
     {{ if .HasChildren }}
       <li>
         <a href="{{ .URL }}">{{ .Name }}
           <span class="drop-icon">▾</span>
-          <label title="Toggle Drop-down" class="drop-icon" for="{{ .Name }}">▾</label>
+          <label title="Toggle Drop-down" class="drop-icon" for="{{ $environment }}{{ .Name }}">▾</label>
         </a>
-        <input type="checkbox" id="{{ .Name }}">
+        <input type="checkbox" id="{{ $environment }}{{ .Name }}">
         <ul class="sub-menu">
           {{ range .Children }}
-            {{ template "menu-item" (dict "entry" . "page" $page) }}
+            {{ template "menu-item" (dict "entry" . "page" $page "environment" $environment ) }}
           {{ end }}
         </ul>
       </li>
@@ -37,10 +38,10 @@
 
       </div>
       <div class="col" style="width: 66%" >
-        <ul class="main-menu" style="float: right;">
+        <ul class="main-menu">
           {{ $page := . }}
           {{ range .Site.Menus.main }}
-            {{ template "menu-item" (dict "entry" . "page" $page) }}
+            {{ template "menu-item" (dict "entry" . "page" $page "environment" "desktop") }}
           {{ end }}
         </ul>
       </div>
@@ -50,12 +51,12 @@
 
 <div id="mobile">
   <nav id="menu">
-    <label for="tm" id="toggle-menu">CLICK FOR MORE PAGES<span class="drop-icon">▾</span></label>
+    <label for="tm" id="toggle-menu">NAVIGATION<span class="drop-icon">▾</span></label>
     <input type="checkbox" id="tm">
-    <ul class="main-menu" stlye="float: right;">
+    <ul class="main-menu">
       {{ $page := . }}
       {{ range .Site.Menus.main }}
-        {{ template "menu-item" (dict "entry" . "page" $page) }}
+        {{ template "menu-item" (dict "entry" . "page" $page "environment" "mobile") }}
       {{ end }}
     </ul>
   </nav>
