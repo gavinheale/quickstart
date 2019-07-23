@@ -2,7 +2,6 @@
 slug = "Gps Guard Tracking Modern Security Company"
 title =  "GPS Guard Tracking and the Modern Security Company"
 date = 2017-08-07T13:35:45-04:00
-lastmod = 2018-08-07T13:35:45-04:00
 tags = ["gps", "physical security"]
 featured_image = "gps_guard_monitoring-300x169"
 description = "My description"

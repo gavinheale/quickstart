@@ -11,4 +11,4 @@ Disallow: /privacy-policy/
 Disallow: /guard-tour-system-demo/
 
 
-Sitemap: http://example.org/sitemap.xml
+Sitemap: https://www.kugadi.com/sitemap.xml
