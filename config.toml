@@ -1,4 +1,5 @@
 baseURL = "https://www.kugadi.com"
+googleAnalytics = "UA-63183301-1"
 languageCode = "en-us"
 theme = "kugadi-simple"
 title = "Kugadi"
