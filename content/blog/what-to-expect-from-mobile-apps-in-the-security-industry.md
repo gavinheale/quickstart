@@ -4,8 +4,8 @@ title =  "What to Expect from Mobile Apps in the Security Industry"
 date = 2016-01-22T16:43:34-04:00
 tags = ["security guard technology", "phones"]
 featured_image = "mobile-phone-security"
-description = ""
-lastmod = 2019-07-16T17:00:04-04:00
+description = "Everybody has a app for something.  How can you get a great one for your security guard company?"
+lastmod = 2019-07-31T17:00:04-04:00
 +++
 In the Security Newsdesk article, [Physical Security and Cyber Security Predictions for 2016](http://www.securitynewsdesk.com/physical-security-and-cyber-security-predictions-for-2016/), one of the key predictions is that “Mobility Matters.” The article infers that smartphone applications are becoming more and more important in the general operations of security companies. In fact, they go so far as to say that “customers are redefining their operations around mobility and demanding that it flexes to their needs.”  So, I thought I would take a look at what a mobile app can do for a guard company and some ideas of just what you need to consider if you want to start using one in your company.
 

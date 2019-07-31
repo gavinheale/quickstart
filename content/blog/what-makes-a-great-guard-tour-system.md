@@ -4,8 +4,8 @@ title =  "What Makes a Great Guard Tour System?"
 date = 2016-06-20T13:47:54-04:00
 tags = ["guard tour system", "security guard technology"]
 featured_image = "guard-tour"
-description = ""
-lastmod = 2019-07-16T17:00:04-04:00
+description = "What rally makes a great guard tour solution?  We look at some of the areas you should evaluate."
+lastmod = 2019-07-31T17:00:04-04:00
 +++
 As with many industries, the contract security guard industry has to keep up with the times and that means taking advantage of the latest technology. Part of that may include finding the right guard tour system to track and report on the movement of your security officers when they are on patrol.
 

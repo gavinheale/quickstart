@@ -4,8 +4,8 @@ title =  "How Artificial Intelligence will Affect the Physical Security Industry
 date = 2017-08-28T13:28:15-04:00
 tags = [ "artificial intelligence", "physical security"]
 featured_image = "ai_for_physical_security-300x200"
-description = ""
-lastmod = 2019-07-16T17:00:04-04:00
+description = "AI is changing how all industries work today.  We take a look at how it will effect your security guard company"
+lastmod = 2019-07-31T17:00:04-04:00
 +++
 Artificial Intelligence, or Machine Learning as it is commonly referred to these days, is one of the hottest technologies that is changing the world today. It has been identified as an Exponential Technology by Salim Ismail of Singularity University which means it is a technology for which performance relative to cost and size is doubling every one to two years.
 

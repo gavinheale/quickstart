@@ -4,8 +4,8 @@ title =  "How Accurate Is Your Smartphone Gps"
 date = 2015-12-09T17:29:50-04:00
 tags = ["gps", "phone"]
 featured_image = ""
-description = ""
-lastmod = 2019-07-16T17:00:04-04:00
+description = "So you have a phone with GPS.  How accurate is the data it is actually sending?"
+lastmod = 2019-07-31T17:00:04-04:00
 +++
 As part of Officer Assist, our Android based guard tour system, we track the movement of security guards using the phones GPS location.  We have collected hundred’s of millions of individual fixes and so we thought it would be interesting to try and find the accuracy of each fix and of phone based GPS in general.   What we found may surprise you!
 

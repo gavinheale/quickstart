@@ -4,8 +4,8 @@ title =  "How to Get New Accounts for your Security Guard Company"
 date = 2018-05-30T16:05:26-04:00
 tags = ["physical security", "marketing"]
 featured_image = "sales_in_security-300x300"
-description = ""
-lastmod = 2019-07-16T17:00:04-04:00
+description = "Sales is sometimes the hardest thing you do in your business.  We look how to do it well for your security guard company."
+lastmod = 2019-07-31T17:00:04-04:00
 +++
 When we speak to owners and managers of contract security companies, many of them complain about the difficulty of getting new business.  A few, however, seem to find it much easier. I going to write about some of the lessons we have learned after dealing with many companies in the industry.
 

@@ -4,8 +4,8 @@ title =  "Effective Reporting for Physical Security"
 date = 2016-03-16T14:01:49-04:00
 tags = ["daily activity report"]
 featured_image = "daily-activity-report"
-description = ""
-lastmod = 2019-07-16T17:00:04-04:00
+description = "Customers really want effective reports.  We look at how you can do the best for your security guard company."
+lastmod = 2019-07-31T17:00:04-04:00
 +++
 For most in the physical security industry, client reporting means simply sending your officer’s daily activity report (DAR) to your customer. While this is a good start, we have observed that reporting in this way, does not give the customer everything they need and want. A more flexible approach to reporting is needed to keep customer satisfaction high. Here are some ideas to help you improve your business.
 
