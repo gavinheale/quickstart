@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>workforce management on Kugadi</title><link>https://www.kugadi.com/tags/workforce-management/</link><description>Recent content in workforce management on Kugadi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 12:45:04 -0400</lastBuildDate><atom:link href="https://www.kugadi.com/tags/workforce-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Workforce Management, a Benefit to Everyone Involved</title><link>https://www.kugadi.com/blog/2018/03/01/workforce-management-benefit-everyone-involved/</link><pubDate>Thu, 01 Mar 2018 12:45:04 -0400</pubDate><guid>https://www.kugadi.com/blog/2018/03/01/workforce-management-benefit-everyone-involved/</guid><description>As we come into 2018, I got to thinking about just how much has changed over the last few years and how much it could continue to change. One of the largest drivers I have seen is the continued automation of many jobs that traditionally did not really have any technical component. I am talking about jobs like security officer, cleaner, maintenance engineer and even home care worker.
-Today, customers are no longer assuming that these people are doing their jobs well but rather looking for evidence in the form of some kind of automated reports and this is where Workforce Management comes in.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workforce management on Kugadi</title>
+    <link>https://www.kugadi.com/tags/workforce-management/</link>
+    <description>Recent content in workforce management on Kugadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 12:45:04 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.kugadi.com/tags/workforce-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workforce Management, a Benefit to Everyone Involved</title>
+      <link>https://www.kugadi.com/blog/2018/03/01/workforce-management-benefit-everyone-involved/</link>
+      <pubDate>Thu, 01 Mar 2018 12:45:04 -0400</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2018/03/01/workforce-management-benefit-everyone-involved/</guid>
+      <description>As we come into 2018, I got to thinking about just how much has changed over the last few years and how much it could continue to change. One of the largest drivers I have seen is the continued automation of many jobs that traditionally did not really have any technical component. I am talking about jobs like security officer, cleaner, maintenance engineer and even home care worker.
+Today, customers are no longer assuming that these people are doing their jobs well but rather looking for evidence in the form of some kind of automated reports and this is where Workforce Management comes in.</description>
+    </item>
+    
+  </channel>
+</rss>
