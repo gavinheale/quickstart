@@ -9,9 +9,5 @@ Disallow: /thank-you-tracking-demo/
 
 Disallow: /privacy-policy/
 
-Disallow: /guard-tour-system-demo/
-
-Disallow: /guard-tracking-demo/
-
 
 Sitemap: https://www.kugadi.com/sitemap.xml

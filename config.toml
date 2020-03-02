@@ -13,10 +13,10 @@ enableRobotsTXT = "true"
     identifier = "blog"
     name = "BLOG"
     url = "/blog/"
-    weight = 1
+    weight = 3
 
   [[menu.main]]
     identifier = "features"
     name = "FEATURES"
     url = "#"
-    weight = 1
+    weight = 2

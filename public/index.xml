@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kugadi</title>
+    <title>Kugadi - Guard Tour System Made Easy on Kugadi</title>
     <link>https://www.kugadi.com/</link>
-    <description>Recent content on Kugadi</description>
+    <description>Recent content in Kugadi - Guard Tour System Made Easy on Kugadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2019 14:51:11 -0400</lastBuildDate>
@@ -12,7 +12,72 @@
     
     
     <item>
-      <title>Activity Report</title>
+      <title>Kugadi - About Us</title>
+      <link>https://www.kugadi.com/about-us/</link>
+      <pubDate>Thu, 27 Feb 2020 14:21:25 -0500</pubDate>
+      
+      <guid>https://www.kugadi.com/about-us/</guid>
+      <description>About Kugadi Kugadi is a Miami, FL based company focused on using technology to solve real world problems. It was founded in 2015 by Gavin Heale, Brendon Whateley and Todd Shimizu. All three are veterans of multiple high tech companies with decades of collective experience in this space. It has a head office in Miami, FL and a Silicon Valley office in Fremont, CA.
+Kugadi was formed after seeing a real market need.</description>
+    </item>
+    
+    <item>
+      <title>Kugadi - FAQ</title>
+      <link>https://www.kugadi.com/faq/</link>
+      <pubDate>Wed, 19 Feb 2020 14:19:38 -0500</pubDate>
+      
+      <guid>https://www.kugadi.com/faq/</guid>
+      <description>.question { color: #666; } .answer { color: #555; }  Frequently Asked Questions  Who is Kugadi?   Kugadi is a Miami, FL based company that produces a smartphone app based Guard Tour System. This can be used by any company that has security guards to greatly modernize their operations and streamline their business.    What is a Guard Tour System?   A guard tour system is a system that uses a device, often known as a wand or a pipe, or smartphone app to track the activities of a security guard.</description>
+    </item>
+    
+    <item>
+      <title>Security Patrol System Demo</title>
+      <link>https://www.kugadi.com/security-patrol-system-demo/</link>
+      <pubDate>Fri, 24 Jan 2020 15:22:47 -0500</pubDate>
+      
+      <guid>https://www.kugadi.com/security-patrol-system-demo/</guid>
+      <description>(888) 236-5031   --  (888) 236-5031    Security Patrol System  Know Where Your Officers are 100% of the Time   Upgrade your business with our Guard Tour System Our total focus is one making your business easier to run and more profitable. Our Guard Tour System is cloud based and requires no costly setup and maintenance. Your officers will add much more value as they no longer need as much supervision and training.</description>
+    </item>
+    
+    <item>
+      <title>Guard Patrol System Demo</title>
+      <link>https://www.kugadi.com/guard-patrol-system-demo/</link>
+      <pubDate>Fri, 24 Jan 2020 15:22:31 -0500</pubDate>
+      
+      <guid>https://www.kugadi.com/guard-patrol-system-demo/</guid>
+      <description>(888) 236-5031   --  (888) 236-5031    Guard Patrol System  Know Where Your Officers are 100% of the Time   Upgrade your business with our Guard Tour System Our total focus is one making your business easier to run and more profitable. Our Guard Tour System is cloud based and requires no costly setup and maintenance. Your officers will add much more value as they no longer need as much supervision and training.</description>
+    </item>
+    
+    <item>
+      <title>Using Analytics to get new customers for your Security Company</title>
+      <link>https://www.kugadi.com/blog/2019/12/11/using-analytics-to-get-new-customers-for-your-security-company/</link>
+      <pubDate>Wed, 11 Dec 2019 15:26:59 -0500</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2019/12/11/using-analytics-to-get-new-customers-for-your-security-company/</guid>
+      <description>At the beginning of this year, one of our main customers made us a specific request: They needed to know how many parking violations were issued by their security officers during the previous month in one particular property. This property is a residential building that does not have a visitor&amp;rsquo;s parking, so visitors constantly park inappropriately creating great discomfort in the residents of the building.
+We immediately checked our system and informed the customer that only during the previous month, their officers had generated 193 property violations in the building.</description>
+    </item>
+    
+    <item>
+      <title>Great Customizable Forms - Designing with Purpose</title>
+      <link>https://www.kugadi.com/blog/2019/10/30/great-customizable-forms-designing-with-purpose/</link>
+      <pubDate>Wed, 30 Oct 2019 12:28:28 -0400</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2019/10/30/great-customizable-forms-designing-with-purpose/</guid>
+      <description>Working as a software engineer at Kugadi, we are always looking at developing tools to improve the customer experience and at the same time provide a workflow that is both intuitive and easy to use. We recognize that one size does not fit all but how do we balance ease of use with a fully flexible solution? My current project is developing a customizable form for our clients’ reports and the Officer Assist app.</description>
+    </item>
+    
+    <item>
+      <title>Guard Tour Patrol System Demo</title>
+      <link>https://www.kugadi.com/guard-tour-patrol-system-demo/</link>
+      <pubDate>Thu, 10 Oct 2019 17:36:53 -0400</pubDate>
+      
+      <guid>https://www.kugadi.com/guard-tour-patrol-system-demo/</guid>
+      <description>(888) 236-5031   --  (888) 236-5031    Guard Tour Patrol System  Know Where Your Officers are 100% of the Time   Upgrade your business with our Guard Tour System Our total focus is one making your business easier to run and more profitable. Our Guard Tour System is cloud based and requires no costly setup and maintenance. Your officers will add much more value as they no longer need as much supervision and training.</description>
+    </item>
+    
+    <item>
+      <title>Kugadi - Activity Reports</title>
       <link>https://www.kugadi.com/activity-report/</link>
       <pubDate>Tue, 16 Jul 2019 17:00:04 -0400</pubDate>
       
@@ -88,11 +153,11 @@ Kugadi Inc, (Kugadi), is committed to keeping any and all personal information c
       <pubDate>Wed, 10 Jul 2019 10:43:09 -0400</pubDate>
       
       <guid>https://www.kugadi.com/guard-tracking-demo/</guid>
-      <description>(888) 236-5031   --  (888) 236-5031    Guard Tour System  Track Your Officers 100% of the Time   Upgrade your business with our Guard Tour System Our total focus is one making your business easier to run and more profitable. Our Guard Tour System is cloud based and requires no costly setup and maintenance. Your officers will add much more value as they no longer need as much supervision and training.</description>
+      <description>(888) 236-5031   --  (888) 236-5031    Guard Tracking System  Track Your Officers 100% of the Time   Upgrade your business with our Guard Tour System Our total focus is one making your business easier to run and more profitable. Our Guard Tour System is cloud based and requires no costly setup and maintenance. Your officers will add much more value as they no longer need as much supervision and training.</description>
     </item>
     
     <item>
-      <title>WHY KUGADI</title>
+      <title>Why Kugadi</title>
       <link>https://www.kugadi.com/why-kugadi/</link>
       <pubDate>Mon, 24 Jun 2019 11:54:41 -0400</pubDate>
       
@@ -102,7 +167,7 @@ Kugadi Inc, (Kugadi), is committed to keeping any and all personal information c
     </item>
     
     <item>
-      <title>Guard Tracking</title>
+      <title>Kugadi - Guard Tracking</title>
       <link>https://www.kugadi.com/guard-tracking/</link>
       <pubDate>Sun, 16 Jun 2019 15:11:00 -0400</pubDate>
       
@@ -113,7 +178,7 @@ Improve efficiency, prevent danger, and provide accurate reporting.</description
     </item>
     
     <item>
-      <title>Guard Management</title>
+      <title>Kugadi - Guard Management</title>
       <link>https://www.kugadi.com/guard-management/</link>
       <pubDate>Fri, 14 Jun 2019 16:56:48 -0400</pubDate>
       
