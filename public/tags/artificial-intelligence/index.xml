@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>artificial intelligence on Kugadi</title>
-    <link>https://www.kugadi.com/tags/artificial-intelligence/</link>
-    <description>Recent content in artificial intelligence on Kugadi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 13:28:15 -0400</lastBuildDate>
-    
-	<atom:link href="https://www.kugadi.com/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>How Artificial Intelligence will Affect the Physical Security Industry</title>
-      <link>https://www.kugadi.com/blog/2017/08/28/artificial-intelligence-physical-security/</link>
-      <pubDate>Mon, 28 Aug 2017 13:28:15 -0400</pubDate>
-      
-      <guid>https://www.kugadi.com/blog/2017/08/28/artificial-intelligence-physical-security/</guid>
-      <description>Artificial Intelligence, or Machine Learning as it is commonly referred to these days, is one of the hottest technologies that is changing the world today. It has been identified as an Exponential Technology by Salim Ismail of Singularity University which means it is a technology for which performance relative to cost and size is doubling every one to two years.
-This incredible level of growth has got me thinking how it will affect Workforce Management systems like Guard Tour Systems as well as the physical security industry as a whole.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>artificial intelligence on Kugadi</title><link>https://www.kugadi.com/tags/artificial-intelligence/</link><description>Recent content in artificial intelligence on Kugadi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2017 13:28:15 -0400</lastBuildDate><atom:link href="https://www.kugadi.com/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>How Artificial Intelligence will Affect the Physical Security Industry</title><link>https://www.kugadi.com/blog/2017/08/28/artificial-intelligence-physical-security/</link><pubDate>Mon, 28 Aug 2017 13:28:15 -0400</pubDate><guid>https://www.kugadi.com/blog/2017/08/28/artificial-intelligence-physical-security/</guid><description>Artificial Intelligence, or Machine Learning as it is commonly referred to these days, is one of the hottest technologies that is changing the world today. It has been identified as an Exponential Technology by Salim Ismail of Singularity University which means it is a technology for which performance relative to cost and size is doubling every one to two years.
+This incredible level of growth has got me thinking how it will affect Workforce Management systems like Guard Tour Systems as well as the physical security industry as a whole.</description></item></channel></rss>
