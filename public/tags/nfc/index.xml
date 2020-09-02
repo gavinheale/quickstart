@@ -1,2 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>nfc on Kugadi</title><link>https://www.kugadi.com/tags/nfc/</link><description>Recent content in nfc on Kugadi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2016 13:55:56 -0400</lastBuildDate><atom:link href="https://www.kugadi.com/tags/nfc/index.xml" rel="self" type="application/rss+xml"/><item><title>Choosing the Right Smartphones for Your Security Business</title><link>https://www.kugadi.com/blog/2016/04/13/choosing-the-right-smartphones-for-your-security-business/</link><pubDate>Wed, 13 Apr 2016 13:55:56 -0400</pubDate><guid>https://www.kugadi.com/blog/2016/04/13/choosing-the-right-smartphones-for-your-security-business/</guid><description>It is becoming clear that more and more security officers are carrying a smartphone as part of their standard equipment. This sparks the debate regarding whether it is best to supply your employees with iPhones or Android phones. While there are certainly no shortage of articles that generically discuss the merits of each, for example hereand here, I thought I would look at some of the more specific needs of the contract security market as it pertains to choosing iPhones or Androids.</description></item><item><title>Technologies for Tracking Security Guards</title><link>https://www.kugadi.com/blog/2015/12/15/technologies-for-tracking-security-guards/</link><pubDate>Tue, 15 Dec 2015 17:17:01 -0400</pubDate><guid>https://www.kugadi.com/blog/2015/12/15/technologies-for-tracking-security-guards/</guid><description>Technology is changing our world. But which technologies are right for you, your business and your customers? In this article, I am going to explore the advantages and challenges associated with common technologies used in smartphone based guard tour systems for tracking security officer locations and activity.
-Global Positioning System (GPS) The technology that springs to mind when discussing tracking, smartphones and maps is GPS. If you own a smart phone, you are familiar with GPS because of applications like Google Maps.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nfc on Kugadi</title>
+    <link>https://www.kugadi.com/tags/nfc/</link>
+    <description>Recent content in nfc on Kugadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Apr 2016 13:55:56 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.kugadi.com/tags/nfc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Choosing the Right Smartphones for Your Security Business</title>
+      <link>https://www.kugadi.com/blog/2016/04/13/choosing-the-right-smartphones-for-your-security-business/</link>
+      <pubDate>Wed, 13 Apr 2016 13:55:56 -0400</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2016/04/13/choosing-the-right-smartphones-for-your-security-business/</guid>
+      <description>It is becoming clear that more and more security officers are carrying a smartphone as part of their standard equipment. This sparks the debate regarding whether it is best to supply your employees with iPhones or Android phones. While there are certainly no shortage of articles that generically discuss the merits of each, for example hereand here, I thought I would look at some of the more specific needs of the contract security market as it pertains to choosing iPhones or Androids.</description>
+    </item>
+    
+    <item>
+      <title>Technologies for Tracking Security Guards</title>
+      <link>https://www.kugadi.com/blog/2015/12/15/technologies-for-tracking-security-guards/</link>
+      <pubDate>Tue, 15 Dec 2015 17:17:01 -0400</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2015/12/15/technologies-for-tracking-security-guards/</guid>
+      <description>Technology is changing our world. But which technologies are right for you, your business and your customers? In this article, I am going to explore the advantages and challenges associated with common technologies used in smartphone based guard tour systems for tracking security officer locations and activity.
+Global Positioning System (GPS) The technology that springs to mind when discussing tracking, smartphones and maps is GPS. If you own a smart phone, you are familiar with GPS because of applications like Google Maps.</description>
+    </item>
+    
+  </channel>
+</rss>

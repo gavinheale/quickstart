@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>daily activity report on Kugadi</title><link>https://www.kugadi.com/tags/daily-activity-report/</link><description>Recent content in daily activity report on Kugadi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2016 14:01:49 -0400</lastBuildDate><atom:link href="https://www.kugadi.com/tags/daily-activity-report/index.xml" rel="self" type="application/rss+xml"/><item><title>Effective Reporting for Physical Security</title><link>https://www.kugadi.com/blog/2016/03/16/effective-reporting-for-physical-security/</link><pubDate>Wed, 16 Mar 2016 14:01:49 -0400</pubDate><guid>https://www.kugadi.com/blog/2016/03/16/effective-reporting-for-physical-security/</guid><description>For most in the physical security industry, client reporting means simply sending your officer’s daily activity report (DAR) to your customer. While this is a good start, we have observed that reporting in this way, does not give the customer everything they need and want. A more flexible approach to reporting is needed to keep customer satisfaction high. Here are some ideas to help you improve your business.
-What Information Customers Want Remember that every customer is different.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>daily activity report on Kugadi</title>
+    <link>https://www.kugadi.com/tags/daily-activity-report/</link>
+    <description>Recent content in daily activity report on Kugadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Mar 2016 14:01:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.kugadi.com/tags/daily-activity-report/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effective Reporting for Physical Security</title>
+      <link>https://www.kugadi.com/blog/2016/03/16/effective-reporting-for-physical-security/</link>
+      <pubDate>Wed, 16 Mar 2016 14:01:49 -0400</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2016/03/16/effective-reporting-for-physical-security/</guid>
+      <description>For most in the physical security industry, client reporting means simply sending your officer’s daily activity report (DAR) to your customer. While this is a good start, we have observed that reporting in this way, does not give the customer everything they need and want. A more flexible approach to reporting is needed to keep customer satisfaction high. Here are some ideas to help you improve your business.
+What Information Customers Want Remember that every customer is different.</description>
+    </item>
+    
+  </channel>
+</rss>

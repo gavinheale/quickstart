@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>analytics customers on Kugadi</title><link>https://www.kugadi.com/tags/analytics-customers/</link><description>Recent content in analytics customers on Kugadi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 15:26:59 -0500</lastBuildDate><atom:link href="https://www.kugadi.com/tags/analytics-customers/index.xml" rel="self" type="application/rss+xml"/><item><title>Using Analytics to get new customers for your Security Company</title><link>https://www.kugadi.com/blog/2019/12/11/using-analytics-to-get-new-customers-for-your-security-company/</link><pubDate>Wed, 11 Dec 2019 15:26:59 -0500</pubDate><guid>https://www.kugadi.com/blog/2019/12/11/using-analytics-to-get-new-customers-for-your-security-company/</guid><description>At the beginning of this year, one of our main customers made us a specific request: They needed to know how many parking violations were issued by their security officers during the previous month in one particular property. This property is a residential building that does not have a visitor&amp;rsquo;s parking, so visitors constantly park inappropriately creating great discomfort in the residents of the building.
-We immediately checked our system and informed the customer that only during the previous month, their officers had generated 193 property violations in the building.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>analytics customers on Kugadi</title>
+    <link>https://www.kugadi.com/tags/analytics-customers/</link>
+    <description>Recent content in analytics customers on Kugadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2019 15:26:59 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.kugadi.com/tags/analytics-customers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Analytics to get new customers for your Security Company</title>
+      <link>https://www.kugadi.com/blog/2019/12/11/using-analytics-to-get-new-customers-for-your-security-company/</link>
+      <pubDate>Wed, 11 Dec 2019 15:26:59 -0500</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2019/12/11/using-analytics-to-get-new-customers-for-your-security-company/</guid>
+      <description>At the beginning of this year, one of our main customers made us a specific request: They needed to know how many parking violations were issued by their security officers during the previous month in one particular property. This property is a residential building that does not have a visitor&amp;rsquo;s parking, so visitors constantly park inappropriately creating great discomfort in the residents of the building.
+We immediately checked our system and informed the customer that only during the previous month, their officers had generated 193 property violations in the building.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>phone on Kugadi</title><link>https://www.kugadi.com/tags/phone/</link><description>Recent content in phone on Kugadi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Dec 2015 17:29:50 -0400</lastBuildDate><atom:link href="https://www.kugadi.com/tags/phone/index.xml" rel="self" type="application/rss+xml"/><item><title>How Accurate Is Your Smartphone Gps</title><link>https://www.kugadi.com/blog/2015/12/09/how-accurate-is-your-smartphone-gps/</link><pubDate>Wed, 09 Dec 2015 17:29:50 -0400</pubDate><guid>https://www.kugadi.com/blog/2015/12/09/how-accurate-is-your-smartphone-gps/</guid><description>As part of Officer Assist, our Android based guard tour system, we track the movement of security guards using the phones GPS location. We have collected hundred’s of millions of individual fixes and so we thought it would be interesting to try and find the accuracy of each fix and of phone based GPS in general. What we found may surprise you!
-Getting the Raw Data Fortunately for us, the Location API in Android gives us an accuracy figure for each position (see http://developer.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phone on Kugadi</title>
+    <link>https://www.kugadi.com/tags/phone/</link>
+    <description>Recent content in phone on Kugadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Apr 2016 13:55:56 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.kugadi.com/tags/phone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Accurate Is Your Smartphone Gps</title>
+      <link>https://www.kugadi.com/blog/2015/12/09/how-accurate-is-your-smartphone-gps/</link>
+      <pubDate>Wed, 09 Dec 2015 17:29:50 -0400</pubDate>
+      
+      <guid>https://www.kugadi.com/blog/2015/12/09/how-accurate-is-your-smartphone-gps/</guid>
+      <description>As part of Officer Assist, our Android based guard tour system, we track the movement of security guards using the phones GPS location. We have collected hundred’s of millions of individual fixes and so we thought it would be interesting to try and find the accuracy of each fix and of phone based GPS in general. What we found may surprise you!
+Getting the Raw Data Fortunately for us, the Location API in Android gives us an accuracy figure for each position (see http://developer.</description>
+    </item>
+    
+  </channel>
+</rss>
